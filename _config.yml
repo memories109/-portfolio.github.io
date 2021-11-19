@@ -22,7 +22,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Ghosts
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -40,18 +40,18 @@ tagline:               >
 keywords:              []
 
 # Used by jekyll-seo-tag...
-logo:                  /assets/icons/icon.png
+logo:                  https://avatars.githubusercontent.com/u/5061527?v=4
 
 # This should be the same author as first entry in `_data/authors.yml`.
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <Kwak> <KyungJin>
+  email:               <mail@memories109@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2017. All rights reserved.
+copyright:             © 2021. All rights reserved.
 
 # Add links to the footer.
 # Typically you'll want to link to your impress, cookies or privacy policy, etc.
@@ -199,7 +199,7 @@ plugins:
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 # remote_theme: qwtel/hydejack@gem
 
 # SEO Tag
